@@ -6,24 +6,21 @@ Data Science Course: Lectures and Materials
 * [Closed and Open Issue List (via pulse)](https://github.com/datadave/GADS9-NYC-Spring2014-Students/pulse#closed-issues)
 * [Create a new issue](https://github.com/datadave/GADS9-NYC-Spring2014-Students/issues/new)
 
-##### Viewing Your and Other Student Work:
-[iPython Notebook Viewer for this class's student repo](http://nbviewer.ipython.org/github/datadave/GADS9-NYC-Spring2014-Students/tree/master/lab_submissions/)
-
 ##### Git Workflow and Command Line Tips:
 * [Tips](tips/README.md)
 
 # Class Meetings
 ## Introduction to Data Science
-_Monday, 3/31/14_
+_Wednesday, 9/3/2014_
 
 #### Class Materials
-* [lab_01a.md](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson01_intro_to_data_science/lab_01a.md)	
+* [lab_01a.md](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson01_intro_to_data_science/lab_01a.md)
 * [lab_01a_example.md](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson01_intro_to_data_science/lab_01a_example.md)
 * [lab_01b.md](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson01_intro_to_data_science/lab_01b.md)
 * [lec_01.pdf](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson01_intro_to_data_science/lec_01.pdf)
 
 ## Data Collection and Extraction
-_Wednesday, 4/7/14_
+_Monday, 9/8/2014_
 
 #### Project 1 Introduced
 * [Description for Project 1](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/projects/project01.md)
@@ -56,12 +53,12 @@ Handy to have this in your bookmarks!
 * <a href="http://www.nyu.edu/projects/politicsdatalab/workshops/BeautifulSoup.pdf">Deck on Beautiful Soup</a>
 * <a href="http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/">Greg Reda's Web Scraping 101</a>
 
-##### APIs to play with
+##### Python API Wrappers, API "console" via apigee
 * <a href="http://www.pythonapi.com/"> Handy Python APIs</a>
 * <a href="https://apigee.com/console/twitter">apigee Console</a>
 
 ## Numpy
-_Wednesday	4/9/2014_
+_Wednesday, 9/10/2014_
 
 #### Class Materials
 * [IPython Notebook Introduction](http://nbviewer.ipython.org/urls/raw.github.com/datadave/GADS9-NYC-Spring2014-Lectures/master/lessons/lesson03a_numpy/lec_03_IPythonNBIntro.ipynb)
@@ -75,7 +72,7 @@ _Wednesday	4/9/2014_
 
 
 ## Pandas
-_Monday	4/14/2014_
+_Monday	9/15/2014_
 
 #### Class Materials
 * [Python Data Review](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson03b_pandas/review.md)
@@ -86,7 +83,7 @@ _Monday	4/14/2014_
 
 
 ## Data Visualization and MatPlotLib
-_Wednesday	4/16/2014_
+_Wednesday	9/17/2014_
 
 #### Class Materials
 [Lecture Notes: Data Visualization](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson04_matplotlib_and_EDA/DataVizLecture_v2.pdf)
@@ -96,21 +93,18 @@ _Wednesday	4/16/2014_
 #### Assignments Due
 * Complete and submit previous assignments
 
-
 #### Additional Resources
 
-
-| Resource | About 
-| -------- | ----- 
-| [Basic Plotting in Pandas](http://pandas.pydata.org/pandas-docs/stable/visualization.html) |
-| [Matplotlib userguide](http://matplotlib.sourceforge.net/users/index.html) |  
-| [Matplotlib Gallery](http://matplotlib.org/gallery.html) | Examples with Code 
-| [Rougier and Prace EuroSciPy Matplotlib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/) | Short Overview 
-
+Resource | About
+-------- | -----
+[Basic Plotting in Pandas](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
+[Matplotlib userguide](http://matplotlib.sourceforge.net/users/index.html)
+[Matplotlib Gallery](http://matplotlib.org/gallery.html) | Examples with Code
+[Rougier and Prace EuroSciPy Matplotlib Tutorial](http://www.loria.fr/~rougier/teaching/matplotlib/) | Short Overview
 
 
 ## Exploratory Data Analysis
-_Monday	4/21/2014_
+_Monday	9/22/2014_
 _We'll be reviewing a number of datasets and going through the Data Exploration Process_
 
 The ACES model for Data Exploration:
@@ -132,13 +126,9 @@ S | Subset comparisons | Look at (visualize!) initial emergenet variable relatio
 * [EDA Questions](http://www.itl.nist.gov/div898/handbook/eda/section3/eda32.htm)
 * [Volinksy EDA Presentation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCYQFjAA&url=http%3A%2F%2Fwww2.research.att.com%2F~volinsky%2FDataMining%2FColumbia2011%2FSlides%2FTopic2-EDAViz.ppt&ei=VA9QU6ODNu2zsASDooCoAQ&usg=AFQjCNEnkeQXZF7l5fIrUGFIrX48qMYUPw&bvm=bv.64764171,d.cWc)
 
-
-#### Assignments Due
-N/A - Please review all prior materials and work on Project 1.
-
-
 ## Presentations, Machine Learning, and Data Science Careers
-_Wednesday	4/23/2014_
+_Wednesday	9/24/2014_
+
 #### Assignments Due
 [Project 1: Scraping, APIs, and Data Visualization](Project 1https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/projects/project01.md)
 
@@ -147,9 +137,8 @@ _Wednesday	4/23/2014_
 * Discussion of Data Science Careers
 * Introduction to Machine Learning
 
-
 ## Linear Regressions
-_Monday 4/28/2014_
+_Monday 9/29/2014_
 _We'll be discussing the linear regression algorithm and learn about scoring regression models_
 
 #### Class Materials
@@ -161,21 +150,20 @@ Please submit three optimized models using the `data/day.csv` file in an ipython
 
 
 ### More Reading
-| Resource | About 
-| -------- | ----- 
-| [Regressions with Sklearn](http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/) |  
-| [Overfitting Regressions](http://shapeofdata.wordpress.com/2013/03/26/general-regression-and-over-fitting/) |  
-| [Guide to Logistic Regression](http://blog.yhathq.com/posts/logistic-regression-and-python.html) |  
+| Resource | About
+| -------- | -----
+| [Regressions with Sklearn](http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/) |
+| [Overfitting Regressions](http://shapeofdata.wordpress.com/2013/03/26/general-regression-and-over-fitting/) |
+| [Guide to Logistic Regression](http://blog.yhathq.com/posts/logistic-regression-and-python.html) |
 | [Khan Academy Algebra Review](https://www.khanacademy.org/math/linear-algebra) |
 | [MIT OCW](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) |
 
 
-## Naive Bayes 
+## Naive Bayes
 
 [(link to lesson folder)](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/tree/master/lessons/lesson08_probability_naive_bayes)
 
-
-_Wednesday 4/30/2014_
+_Wednesday 10/01/2014_
 _We'll be reviewing some basics of probability, developing ways to work with text data, and using a classification algorithm to classify text._
 
 #### Objectives
@@ -200,7 +188,7 @@ Based on student feedback:
 * [Additional NB Notes](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson08_probability_naive_bayes/AdditionNBNotes.md)
 
 ## Classifier Comparison and Logistic Regression
-_Wednesday	5/7/2014_
+_Monday	10/6/2014_
 
 #### Objectives
 * Understand how to apply logistic regression to a classification problem
@@ -223,9 +211,9 @@ Students are expected add additional classifiers to the notebook, experiment wit
 
 Your Centroid or Mine? An Introduction to K-Means
 ======================================
-_Monday, May 19th_
+_Wednesday 10/8/2014_
 
-Humans are good, often too good, at clustering, and its another realm of our intelligence that we can programatically apply to machines.  Toddlers can tell that objects are boats, flags, and doggies -- but how?  
+Humans are good, often too good, at clustering, and its another realm of our intelligence that we can programatically apply to machines.  Toddlers can tell that objects are boats, flags, and doggies -- but how?
 
 Machine clustering is used to categorize the web, understand galaxies, organize genetic, segment customers, classify mental illness, and detect disease patterns, to name just a few applications.
 
@@ -245,7 +233,7 @@ Here's some resources to get started:
 
 Review of Random Forests and the Ensemble Learning Approach
 ======================================
-_Wednesday, May 21st_
+_Monday 10/13/2014_
 
 We'll wrap up all machine learning material by having a more in detail discussion about the differences between bagging (bootstrapping), boosting, and random forests.
 
@@ -263,34 +251,3 @@ We'll wrap up all machine learning material by having a more in detail discussio
 [Class Lecture](https://github.com/datadave/GADS9-NYC-Spring2014-Lectures/blob/master/lessons/lesson14_ensembles/lesson14_ensembles.pdf?raw=true)
 
 _Updates expected -- See Lesson Folder for further details_
-
-<!--
-
-
-## KNN and K-Means
-_Monday	5/5/2014_
--->
-<!--
-## Decision Trees
-
-
-## Principle Component Analysis
-_Monday	5/12/2014_
-
-## Review of Machine Learning
-_Wednesday	5/14/2014_
--->
-
-
-<!--
-_Monday	5/19/2014_
-_Wednesday	5/21/2014_
-_Memorial Day	5/26/2014_
-_Wednesday	5/28/2014_
-_Monday	6/2/2014_
-_Wednesday	6/4/2014_
-_Monday	6/9/2014_
-_Wednesday	6/11/2014_
-_Monday	6/16/2014_
-_Wednesday	6/18/2014_
--->
