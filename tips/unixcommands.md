@@ -1,5 +1,9 @@
-# Common Unix Commands
-
+---
+layout: page
+title: Common Unix Commands
+description:
+type: tips
+---
 **Note**: Tab completion is your friend.
 
 ### Some great cheat sheets:

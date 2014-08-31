@@ -1,4 +1,9 @@
-# Common Windows Commands
+---
+layout: page
+title: Common Windows Commands
+description:
+type: tips
+---
 
 **Note**: These commands assume you are using the vanilla Windows command prompt.
 

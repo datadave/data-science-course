@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Class Materials</h1>
+
+  <ul class="project-list">
+    {% for material in site.pages %}
+      {% if material.type == 'material' %}
+          <li>
+              <a class="project-link" href="{{ material.url | prepend: site.baseurl }}">{{ material.title }}</a>
+          </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h1 class="page-heading">Supplementary Materials</h1>
+  <em>We may not go over these in the class, but for those looking for extra...</em>
+
+  <ul class="project-list">
+    {% for material in site.pages %}
+        {% if material.type == 'supplement_material' %}
+          <li>
+              <a class="project-link" href="{{ material.url | prepend: site.baseurl }}">{{ material.title }}</a>
+          </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h1 class="page-heading">Tips and other assorted things</h1>
+
+  <ul class="project-list">
+    {% for material in site.pages %}
+      {% if material.type == 'tips' %}
+          <li>
+              <a class="project-link" href="{{ material.url | prepend: site.baseurl }}">{{ material.title }}</a>
+          </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>

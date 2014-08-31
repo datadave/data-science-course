@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Class Projects</h1>
+
+  <ul class="project-list">
+    {% for project in site.pages %}
+        {% if project.type == 'project' %}
+          <li>
+              <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>

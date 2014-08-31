@@ -1,0 +1,11 @@
+# Site settings
+title: General Assembly-Data Science 12 (13?)
+email1: dave@scaleanalytics.com
+email2: ed@homejoy.com
+description: > # this means to ignore newlines until "baseurl:"
+  Content and materials and other synonyms for the GA Data Science NYC Fall Course
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
