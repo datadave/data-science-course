@@ -1,4 +1,9 @@
-# Git Workflow for Windows
+---
+layout: page
+title: Git Workflow for Windows
+description:
+type: tips
+---
 
 [xkcd git commit fun](http://xkcd.com/1296/)
 

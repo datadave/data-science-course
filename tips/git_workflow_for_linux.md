@@ -1,4 +1,9 @@
-# Git Workflow for Linux
+---
+layout: page
+title: Git Workflow for Linux
+description:
+type: tips
+---
 
 [xkcd git commit fun](http://xkcd.com/1296/)
 
@@ -88,16 +93,16 @@ Replace *username* with your GitHub username
 	remote: Total 784 (delta 269), reused 784 (delta 269)
 	Receiving objects: 100% (784/784), 13.27 MiB | 236 KiB/s, done.
 	Resolving deltas: 100% (269/269), done.
-	joe@ubuntu:~$		
+	joe@ubuntu:~$
 	
 ### Add an Upstream Link to datadave
 This step is critical to getting the latest *lab_submissions/lab0x* directories.
 
-	cd GADS9-NYC-Spring2014-Students	
+	cd GADS9-NYC-Spring2014-Students
 	git remote -v
 	git remote add upstream https://github.com/datadave/GADS9-NYC-Spring2014-Students.git
-	git remote -v	
-Note: *git remote -v* will show you where git knows to look for different items. You will notice that git is unaware of *upstream* before running the *git remote add upstream ...* command.	
+	git remote -v
+Note: *git remote -v* will show you where git knows to look for different items. You will notice that git is unaware of *upstream* before running the *git remote add upstream ...* command.
 
 **Example:**
 
@@ -196,7 +201,7 @@ Remember *git remote -v* and how it showed that *origin* referred to your person
 
 	joe@ubuntu:~/GADS9-NYC-Spring2014-Students/lab_submissions/lab02/jrcarli$ git push origin master
 	Username for 'https://github.com': jrcarli
-	Password for 'https://jrcarli@github.com': 
+	Password for 'https://jrcarli@github.com':
 	Counting objects: 19, done.
 	Compressing objects: 100% (11/11), done.
 	Writing objects: 100% (12/12), 1.25 KiB, done.

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Class Syllabus</h1>
+
+  <ul class="post-list">
+    {% for class in site.posts reversed %}
+      <li>
+          <a class="post-link" href="{{ class.url | prepend: site.baseurl }}">{{ class.title }}</a>
+          <span class="post-meta">{{ class.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

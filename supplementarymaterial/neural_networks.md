@@ -1,3 +1,10 @@
+---
+layout: page
+title: Neural Networks
+description:
+type: supplement_material
+---
+
 Neural Networks
 ============
 
