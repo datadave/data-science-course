@@ -1,9 +1,4 @@
----
-layout: page
-title: Common Git Commands
-description:
-type: tips
----
+# Common Git Commands
 
 ### Clone a (GitHub) repository
     git clone https://github.com/username/repository.git

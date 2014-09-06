@@ -1,9 +1,4 @@
----
-layout: page
-title: Git Workflow for Mac
-description:
-type: tips
----
+# Git Workflow for Mac
 
 [xkcd git commit fun](http://xkcd.com/1296/)
 
